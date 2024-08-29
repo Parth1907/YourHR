@@ -1,4 +1,10 @@
-### API Routes Index
+# Documentation
+
+## Website Link
+
+[YourHR](https://yourhr-cbvx.onrender.com/)
+
+## API Routes Index
 
 This index provides an overview of the main API routes for managing login, resume uploads, and user operations.
 
@@ -9,9 +15,9 @@ This index provides an overview of the main API routes for managing login, resum
 
 ---
 
-### API Documentation: User Login
+## API Documentation: User Login
 
-#### Endpoint: `/api/login`
+### Endpoint: `/api/login`
 
 **Method:** POST
 
@@ -49,9 +55,9 @@ This endpoint authenticates a user by verifying their username and password. Upo
 
 ---
 
-### API Documentation: Resume Management
+## API Documentation: Resume Management
 
-#### Base Endpoint: `/api/resume`
+### Base Endpoint: `/api/resume`
 
 This API allows users to upload resumes and retrieve uploaded files.
 
@@ -158,9 +164,9 @@ Fetches all the uploaded files associated with a specific user.
 
 ---
 
-### API Documentation: User Management
+## API Documentation: User Management
 
-#### Base Endpoint: `/api/users`
+### Base Endpoint: `/api/users`
 
 This API allows for managing user data, including creating new users and retrieving a list of all users.
 
