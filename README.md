@@ -1,3 +1,14 @@
+### API Routes Index
+
+This index provides an overview of the main API routes for managing login, resume uploads, and user operations.
+
+
+- [Login API](#api-documentation-user-login)
+- [Resume Management API](#api-documentation-resume-management)
+- [User Management API](#api-documentation-user-management)
+
+---
+
 ### API Documentation: User Login
 
 #### Endpoint: `/api/login`
